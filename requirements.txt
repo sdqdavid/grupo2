@@ -2,4 +2,4 @@ cloudpickle
 streamlit
 joblib
 numpy
-
+sklearn
