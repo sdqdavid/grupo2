@@ -1,4 +1,4 @@
-pickle
+cloudpickle
 streamlit
 joblib
 numpy
